@@ -1,0 +1,51 @@
+A C.S. Lewis
+G Christian apologetics
+G Fantasy
+G Science fiction
+G Children's literature
+W Mere Christianity
+W The Chronicles of Narnia
+W The Screwtape Letters
+W The Space Trilogy
+I JRR Tolkein
+I JK Rowling
+I Whoops! Wrong entry!
+O Edith Nesbit
+O JRR Tolkein
+O George MacDonald
+/
+A Edith Nesbit
+G Children's literature
+G Fantasy
+W The Railway Children
+W Five Children and It
+W The Enchanted Castle
+I C.S. Lewis
+I JK Rowling
+O George MacDonald
+/
+A JRR Tolkein
+G Fantasy
+W The Lord of the Rings Trilogy
+W The Hobbit
+W The Silmarillion
+I C.S. Lewis
+I George RR Martin
+I Stephen King
+O C.S. Lewis
+O John Buchan
+O Rider Haggard
+O George MacDonald
+/
+A George MacDonald
+G Children's literature
+G Poetry
+G Fantasy
+G Christian apologetics
+W Phantastes: A Fairie Romance for Men and Women
+W Within and Without: A Dramatic Poem
+W The Hope of the Gospel
+W The Princess and the Goblin
+O C.S. Lewis
+O Lewis Caroll
+/
